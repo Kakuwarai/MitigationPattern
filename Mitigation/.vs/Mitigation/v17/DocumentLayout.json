@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GIT\\test\\Mitigation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F53CA88B-A70A-4CC3-A8B8-2C450F1885CD}|Mitigation\\Mitigation.csproj|c:\\git\\test\\mitigation\\mitigation\\migrations\\20250516084100_createvsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53CA88B-A70A-4CC3-A8B8-2C450F1885CD}|Mitigation\\Mitigation.csproj|solutionrelative:mitigation\\migrations\\20250516084100_createvsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53CA88B-A70A-4CC3-A8B8-2C450F1885CD}|Mitigation\\Mitigation.csproj|c:\\git\\test\\mitigation\\mitigation\\data\\pointofsalescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53CA88B-A70A-4CC3-A8B8-2C450F1885CD}|Mitigation\\Mitigation.csproj|solutionrelative:mitigation\\data\\pointofsalescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53CA88B-A70A-4CC3-A8B8-2C450F1885CD}|Mitigation\\Mitigation.csproj|c:\\git\\test\\mitigation\\mitigation\\migrations\\20250516084100_createvsales.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53CA88B-A70A-4CC3-A8B8-2C450F1885CD}|Mitigation\\Mitigation.csproj|solutionrelative:mitigation\\migrations\\20250516084100_createvsales.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53CA88B-A70A-4CC3-A8B8-2C450F1885CD}|Mitigation\\Mitigation.csproj|c:\\git\\test\\mitigation\\mitigation\\models\\vsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53CA88B-A70A-4CC3-A8B8-2C450F1885CD}|Mitigation\\Mitigation.csproj|solutionrelative:mitigation\\models\\vsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53CA88B-A70A-4CC3-A8B8-2C450F1885CD}|Mitigation\\Mitigation.csproj|c:\\git\\test\\mitigation\\mitigation\\models\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53CA88B-A70A-4CC3-A8B8-2C450F1885CD}|Mitigation\\Mitigation.csproj|solutionrelative:mitigation\\models\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53CA88B-A70A-4CC3-A8B8-2C450F1885CD}|Mitigation\\Mitigation.csproj|c:\\git\\test\\mitigation\\mitigation\\repositories\\candidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53CA88B-A70A-4CC3-A8B8-2C450F1885CD}|Mitigation\\Mitigation.csproj|solutionrelative:mitigation\\repositories\\candidaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53CA88B-A70A-4CC3-A8B8-2C450F1885CD}|Mitigation\\Mitigation.csproj|c:\\git\\test\\mitigation\\mitigation\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53CA88B-A70A-4CC3-A8B8-2C450F1885CD}|Mitigation\\Mitigation.csproj|solutionrelative:mitigation\\unitofwork\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53CA88B-A70A-4CC3-A8B8-2C450F1885CD}|Mitigation\\Mitigation.csproj|c:\\git\\test\\mitigation\\mitigation\\models\\storeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53CA88B-A70A-4CC3-A8B8-2C450F1885CD}|Mitigation\\Mitigation.csproj|solutionrelative:mitigation\\models\\storeitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53CA88B-A70A-4CC3-A8B8-2C450F1885CD}|Mitigation\\Mitigation.csproj|c:\\git\\test\\mitigation\\mitigation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53CA88B-A70A-4CC3-A8B8-2C450F1885CD}|Mitigation\\Mitigation.csproj|solutionrelative:mitigation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53CA88B-A70A-4CC3-A8B8-2C450F1885CD}|Mitigation\\Mitigation.csproj|c:\\git\\test\\mitigation\\mitigation\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53CA88B-A70A-4CC3-A8B8-2C450F1885CD}|Mitigation\\Mitigation.csproj|solutionrelative:mitigation\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53CA88B-A70A-4CC3-A8B8-2C450F1885CD}|Mitigation\\Mitigation.csproj|c:\\git\\test\\mitigation\\mitigation\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53CA88B-A70A-4CC3-A8B8-2C450F1885CD}|Mitigation\\Mitigation.csproj|solutionrelative:mitigation\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53CA88B-A70A-4CC3-A8B8-2C450F1885CD}|Mitigation\\Mitigation.csproj|c:\\git\\test\\mitigation\\mitigation\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53CA88B-A70A-4CC3-A8B8-2C450F1885CD}|Mitigation\\Mitigation.csproj|solutionrelative:mitigation\\unitofwork\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53CA88B-A70A-4CC3-A8B8-2C450F1885CD}|Mitigation\\Mitigation.csproj|c:\\git\\test\\mitigation\\mitigation\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F53CA88B-A70A-4CC3-A8B8-2C450F1885CD}|Mitigation\\Mitigation.csproj|solutionrelative:mitigation\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F53CA88B-A70A-4CC3-A8B8-2C450F1885CD}|Mitigation\\Mitigation.csproj|c:\\git\\test\\mitigation\\mitigation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F53CA88B-A70A-4CC3-A8B8-2C450F1885CD}|Mitigation\\Mitigation.csproj|solutionrelative:mitigation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250516084100_CreateVSales.Designer.cs",
+              "DocumentMoniker": "C:\\GIT\\test\\Mitigation\\Mitigation\\Migrations\\20250516084100_CreateVSales.Designer.cs",
+              "RelativeDocumentMoniker": "Mitigation\\Migrations\\20250516084100_CreateVSales.Designer.cs",
+              "ToolTip": "C:\\GIT\\test\\Mitigation\\Mitigation\\Migrations\\20250516084100_CreateVSales.Designer.cs",
+              "RelativeToolTip": "Mitigation\\Migrations\\20250516084100_CreateVSales.Designer.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAuwGYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:41:04.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250516084100_CreateVSales.cs",
+              "DocumentMoniker": "C:\\GIT\\test\\Mitigation\\Mitigation\\Migrations\\20250516084100_CreateVSales.cs",
+              "RelativeDocumentMoniker": "Mitigation\\Migrations\\20250516084100_CreateVSales.cs",
+              "ToolTip": "C:\\GIT\\test\\Mitigation\\Mitigation\\Migrations\\20250516084100_CreateVSales.cs",
+              "RelativeToolTip": "Mitigation\\Migrations\\20250516084100_CreateVSales.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAADoAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:41:00.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VSales.cs",
+              "DocumentMoniker": "C:\\GIT\\test\\Mitigation\\Mitigation\\Models\\VSales.cs",
+              "RelativeDocumentMoniker": "Mitigation\\Models\\VSales.cs",
+              "ToolTip": "C:\\GIT\\test\\Mitigation\\Mitigation\\Models\\VSales.cs",
+              "RelativeToolTip": "Mitigation\\Models\\VSales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T08:38:35.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\GIT\\test\\Mitigation\\Mitigation\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Mitigation\\UnitOfWork\\UnitOfWork.cs",
+              "ToolTip": "C:\\GIT\\test\\Mitigation\\Mitigation\\UnitOfWork\\UnitOfWork.cs",
+              "RelativeToolTip": "Mitigation\\UnitOfWork\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T05:55:42.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PointOfSalesContext.cs",
+              "DocumentMoniker": "C:\\GIT\\test\\Mitigation\\Mitigation\\Data\\PointOfSalesContext.cs",
+              "RelativeDocumentMoniker": "Mitigation\\Data\\PointOfSalesContext.cs",
+              "ToolTip": "C:\\GIT\\test\\Mitigation\\Mitigation\\Data\\PointOfSalesContext.cs",
+              "RelativeToolTip": "Mitigation\\Data\\PointOfSalesContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T05:37:23.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "C:\\GIT\\test\\Mitigation\\Mitigation\\Models\\Sales.cs",
+              "RelativeDocumentMoniker": "Mitigation\\Models\\Sales.cs",
+              "ToolTip": "C:\\GIT\\test\\Mitigation\\Mitigation\\Models\\Sales.cs",
+              "RelativeToolTip": "Mitigation\\Models\\Sales.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T06:55:29.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CandidateRepository.cs",
+              "DocumentMoniker": "C:\\GIT\\test\\Mitigation\\Mitigation\\Repositories\\CandidateRepository.cs",
+              "RelativeDocumentMoniker": "Mitigation\\Repositories\\CandidateRepository.cs",
+              "ToolTip": "C:\\GIT\\test\\Mitigation\\Mitigation\\Repositories\\CandidateRepository.cs",
+              "RelativeToolTip": "Mitigation\\Repositories\\CandidateRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T05:54:24.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GIT\\test\\Mitigation\\Mitigation\\Program.cs",
+              "RelativeDocumentMoniker": "Mitigation\\Program.cs",
+              "ToolTip": "C:\\GIT\\test\\Mitigation\\Mitigation\\Program.cs",
+              "RelativeToolTip": "Mitigation\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T05:43:16.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StoreItem.cs",
+              "DocumentMoniker": "C:\\GIT\\test\\Mitigation\\Mitigation\\Models\\StoreItem.cs",
+              "RelativeDocumentMoniker": "Mitigation\\Models\\StoreItem.cs",
+              "ToolTip": "C:\\GIT\\test\\Mitigation\\Mitigation\\Models\\StoreItem.cs",
+              "RelativeToolTip": "Mitigation\\Models\\StoreItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T05:40:16.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\GIT\\test\\Mitigation\\Mitigation\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "Mitigation\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\GIT\\test\\Mitigation\\Mitigation\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "Mitigation\\Controllers\\ItemsController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAxwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T05:56:49.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\GIT\\test\\Mitigation\\Mitigation\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Mitigation\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\GIT\\test\\Mitigation\\Mitigation\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Mitigation\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T05:51:49.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\GIT\\test\\Mitigation\\Mitigation\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Mitigation\\UnitOfWork\\IUnitOfWork.cs",
+              "ToolTip": "C:\\GIT\\test\\Mitigation\\Mitigation\\UnitOfWork\\IUnitOfWork.cs",
+              "RelativeToolTip": "Mitigation\\UnitOfWork\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T05:55:13.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\GIT\\test\\Mitigation\\Mitigation\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Mitigation\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\GIT\\test\\Mitigation\\Mitigation\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Mitigation\\Repositories\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T05:52:42.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\GIT\\test\\Mitigation\\Mitigation\\appsettings.json",
+              "RelativeDocumentMoniker": "Mitigation\\appsettings.json",
+              "ToolTip": "C:\\GIT\\test\\Mitigation\\Mitigation\\appsettings.json",
+              "RelativeToolTip": "Mitigation\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-16T05:41:14.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

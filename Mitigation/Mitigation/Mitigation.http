@@ -1,0 +1,6 @@
+@Mitigation_HostAddress = http://localhost:5090
+
+GET {{Mitigation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
