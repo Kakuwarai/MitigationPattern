@@ -1,0 +1,192 @@
+[
+  {
+    "ContainingType": "Web_API_Test.Controllers.EmployeesController",
+    "Method": "AddEmployees",
+    "RelativePath": "api/Employees",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "NewEmployee",
+        "Type": "Web_API_Test.Classes.EmployeesDto\u002BEmployeeInfo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_API_Test.Controllers.EmployeesController",
+    "Method": "GetAllEmployees",
+    "RelativePath": "api/Employees",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_API_Test.Controllers.EmployeesController",
+    "Method": "GetById",
+    "RelativePath": "api/Employees/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_API_Test.Controllers.EmployeesController",
+    "Method": "UpdateEmployee",
+    "RelativePath": "api/Employees/{Id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "EmployeeDetails",
+        "Type": "Web_API_Test.Classes.EmployeesDto\u002BEmployeeInfo",
+        "IsRequired": true
+      },
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_API_Test.Controllers.EmployeesController",
+    "Method": "RemoveEmployee",
+    "RelativePath": "api/Employees/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_API_Test.Controllers.EmployeesController",
+    "Method": "EvaluationSummary",
+    "RelativePath": "api/employees/{Id}/evaluation-summary",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_API_Test.Controllers.EvaluationsController",
+    "Method": "AddEvaluationForEmployee",
+    "RelativePath": "api/Evaluations",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "evaluationInfo",
+        "Type": "Web_API_Test.Classes.EvaluationDto\u002BEvaluationInfo",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_API_Test.Controllers.EvaluationsController",
+    "Method": "GetAllEvaluation",
+    "RelativePath": "api/Evaluations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_API_Test.Controllers.EvaluationsController",
+    "Method": "GetEvaluationById",
+    "RelativePath": "api/Evaluations/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_API_Test.Controllers.EvaluationsController",
+    "Method": "GetEvaluationByEmployeeId",
+    "RelativePath": "api/Evaluations/employees/{Id}/evaluation",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_API_Test.Controllers.EvaluationsController",
+    "Method": "AddKpiEvaluation",
+    "RelativePath": "api/Evaluations/evaluations/{Id}/kpis",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Kpi",
+        "Type": "Web_API_Test.Classes.EvaluationDto\u002BKpiClass",
+        "IsRequired": true
+      },
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Web_API_Test.Controllers.EvaluationsController",
+    "Method": "GetKpisForEvaluation",
+    "RelativePath": "api/Evaluations/evaluations/{Id}/kpis",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
