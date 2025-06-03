@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GIT\\test\\Web_API_Test\\",
+  "WorkspaceRootPath": "C:\\GIT\\MitigationPattern\\Web_API_Test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E632D47F-BF84-4370-B545-8129731FE356}|Web_API_Test.Tests\\Web_API_Test.Tests.csproj|c:\\git\\test\\web_api_test\\web_api_test.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E632D47F-BF84-4370-B545-8129731FE356}|Web_API_Test.Tests\\Web_API_Test.Tests.csproj|solutionrelative:web_api_test.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B2E4B31-2066-4E19-BEA1-40AADA862ED1}|Web_API_Test\\Web_API_Test.csproj|c:\\git\\test\\web_api_test\\web_api_test\\repository\\iemployeesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B2E4B31-2066-4E19-BEA1-40AADA862ED1}|Web_API_Test\\Web_API_Test.csproj|solutionrelative:web_api_test\\repository\\iemployeesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B2E4B31-2066-4E19-BEA1-40AADA862ED1}|Web_API_Test\\Web_API_Test.csproj|c:\\git\\mitigationpattern\\web_api_test\\web_api_test\\service\\employeesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B2E4B31-2066-4E19-BEA1-40AADA862ED1}|Web_API_Test\\Web_API_Test.csproj|solutionrelative:web_api_test\\service\\employeesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,27 +23,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\GIT\\test\\Web_API_Test\\Web_API_Test.Tests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "Web_API_Test.Tests\\UnitTest1.cs",
-              "ToolTip": "C:\\GIT\\test\\Web_API_Test\\Web_API_Test.Tests\\UnitTest1.cs",
-              "RelativeToolTip": "Web_API_Test.Tests\\UnitTest1.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAQwDwAAAAvAAAAAAAAAA==",
+              "Title": "EmployeesService.cs",
+              "DocumentMoniker": "C:\\GIT\\MitigationPattern\\Web_API_Test\\Web_API_Test\\Service\\EmployeesService.cs",
+              "RelativeDocumentMoniker": "Web_API_Test\\Service\\EmployeesService.cs",
+              "ToolTip": "C:\\GIT\\MitigationPattern\\Web_API_Test\\Web_API_Test\\Service\\EmployeesService.cs",
+              "RelativeToolTip": "Web_API_Test\\Service\\EmployeesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T03:02:01.547Z",
+              "WhenOpened": "2025-06-03T08:00:27.372Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IEmployeesRepository.cs",
-              "DocumentMoniker": "C:\\GIT\\test\\Web_API_Test\\Web_API_Test\\Repository\\IEmployeesRepository.cs",
-              "RelativeDocumentMoniker": "Web_API_Test\\Repository\\IEmployeesRepository.cs",
-              "ToolTip": "C:\\GIT\\test\\Web_API_Test\\Web_API_Test\\Repository\\IEmployeesRepository.cs",
-              "RelativeToolTip": "Web_API_Test\\Repository\\IEmployeesRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T23:42:25.835Z"
             }
           ]
         }

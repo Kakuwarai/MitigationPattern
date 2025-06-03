@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7c5YzxEY+N4=",
+  "dgSpecHash": "6Hngf28QQ/U=",
   "success": true,
-  "projectFilePath": "C:\\GIT\\test\\Web_API_Test\\Web_API_Test.Tests\\Web_API_Test.Tests.csproj",
+  "projectFilePath": "C:\\GIT\\MitigationPattern\\Web_API_Test\\Web_API_Test.Tests\\Web_API_Test.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MarkJearoneFAlvarez\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\MarkJearoneFAlvarez\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
